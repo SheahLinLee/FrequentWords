@@ -1,0 +1,11 @@
+Package: FrequentWords
+Type: Package
+Title: FrequentWords is a package to find the most frequently occuring string ('Pattern') of length 'k' in a character vector 'Text'. 
+Version: 0.1.0
+Author: Sheah Lin Lee and Sanjay Rathee
+Maintainer: Sheah Lin Lee <s.l.lee@soton.ac.uk>
+Description: FrequentWords is a package to find the most frequently occuring string ('Pattern') of length 'k' in a character vector 'Text'. It is developed for use in genomics to identify the most frequent occuring k-mer(s) in 'Text'. However, it can be apply to any character vectors.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: PatternCount
